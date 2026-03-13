@@ -104,7 +104,7 @@
     <div class="section-heading">Export</div>
     <div class="export-grid">
       <button class="btn btn-primary btn-block" :disabled="exporting" @click="handleExportPDF">
-        {{ exporting ? '⏳ Generating…' : '📄 Export PDF Report' }}
+        {{ exporting ? '⏳ Generating…' : 'Export PDF Report' }}
       </button>
       <button class="btn btn-ghost btn-block" @click="showReceiptModal = true">
         🧾 View Digital Receipt
