@@ -91,7 +91,7 @@
               style="background:var(--red-dim);color:var(--red);border:none"
               @click="confirmDelete(entry)"
             >
-              🗑 Delete
+              Delete
             </button>
           </div>
         </div>
