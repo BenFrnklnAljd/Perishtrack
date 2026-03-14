@@ -85,7 +85,7 @@
           </span>
           <span v-else class="tag tag-bev">No Expiry</span>
           <div class="prod-actions">
-            <button class="btn btn-ghost btn-xs" @click="startEdit(entry)">✏️ Edit</button>
+            <button class="btn btn-ghost btn-xs" @click="startEdit(entry)">Edit</button>
             <button
               class="btn btn-xs"
               style="background:var(--red-dim);color:var(--red);border:none"
