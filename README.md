@@ -1,4 +1,4 @@
-# 🥐 PerishTrack
+# 🥐 BreadTrack
 **Inventory & Sales Management App for Perishable Goods**
 
 A mobile-first Vue 3 application for bakeries, cafés, and food stalls to track daily production, sales, inventory balance, expiration, and profit/loss analytics — all stored locally with no backend required.
